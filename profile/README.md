@@ -1,7 +1,7 @@
 # Rust on the Wii U
 
 > [!CAUTION]
->**IN EARLY DEVELOPMENT**: Expect bugs, weird behaviour and incomplete documentation. Version numbers aren't be maintained (but will be oc once development has stabilized)
+>**IN EARLY DEVELOPMENT**: Expect bugs, weird behaviour and incomplete documentation. Version numbers aren't maintained (but will be oc once development has stabilized)
 
 The goal of this project to to create a simple way to write Wii U Homebrew software via Rust. This is achieved by wrapping the [devkitPro](https://github.com/devkitPro) toolchain (C/C++) using bindgen and providing rusty abstractions to write convenient, typical, and std-like Rust code.
 
