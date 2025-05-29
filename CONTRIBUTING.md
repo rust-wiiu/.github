@@ -1,7 +1,8 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to free open source software! There are many ways to contribute and we appreciate all of them.
+As the project is still small, we decided to keep the "guidelines" brief:
 
-Sadly, I hadn't had time to write this down. TBD
+* Be nice and use common sense.
+* Avoid actions you wouldn't appreciate in your own projects or community.
 
-<!-- https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md -->
+In case you want more complete or direct instructions, take a look at [How to Contribute to Open Source?](https://opensource.guide/how-to-contribute/).
