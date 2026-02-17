@@ -6,3 +6,7 @@ As the project is still small, we decided to keep the "guidelines" brief:
 * Avoid actions you wouldn't appreciate in your own projects or community.
 
 In case you want more complete or direct instructions, take a look at [How to Contribute to Open Source?](https://opensource.guide/how-to-contribute/).
+
+## Use of LLMs
+
+We have no problem with AI generated code as long as its reviewed and contributed in good faith.
