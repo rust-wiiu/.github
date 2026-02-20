@@ -9,7 +9,7 @@ In case you want more complete or direct instructions, take a look at [How to Co
 
 ## Use of LLMs
 
-We have no problem with AI generated code as long as its reviewed and contributed in good faith.
+We have no problem with AI generated code as long as it is reviewed and contributed in good faith.
 
 ## Why GPL-3.0?
 
