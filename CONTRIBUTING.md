@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-As the project is still small, we decided to keep the "guidelines" brief:
+## TL;DR
 
 * Be nice and use common sense.
 * Avoid actions you wouldn't appreciate in your own projects or community.
@@ -10,3 +10,7 @@ In case you want more complete or direct instructions, take a look at [How to Co
 ## Use of LLMs
 
 We have no problem with AI generated code as long as its reviewed and contributed in good faith.
+
+## Why GPL-3.0?
+
+We chose to license our main contributions under GPL-3.0 to foster an open and fair ecosystem of an already niche and small community. We encountered individuals who gatekeep code and implement unreasonable anti-debugging measures (like triggering BSOD when "detecting" network analyzers). By using a more restrictive open-source license we want to (at least in theory) avoid such behavior.
