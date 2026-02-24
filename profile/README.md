@@ -18,4 +18,6 @@ We would like to thank the contributors to [devkitPro](https://github.com/devkit
 
 ## Legal
 
-This project is not affiliated with, authorized, maintained, sponsored, or endorsed by Nintendo. Wii U™ is a registered trademark of Nintendo Co., Ltd.
+"This project" refers to all code provided by the Github Organisation "rust-wiiu".
+
+rust-wiiu is not affiliated with, authorized, maintained, sponsored, or endorsed by Nintendo. Wii U™ is a registered trademark of Nintendo Co., Ltd.
